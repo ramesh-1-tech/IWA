@@ -1,0 +1,201 @@
+Patient ID,Name,Age,Gender,Diagnosis,Treatment Plan
+97,Cynthia Green,26,Female,Asthma,Physical therapy
+68,Jeffrey Hernandez,3,Female,Arthritis,Pain management
+93,Maurice Caldwell,6,Male,Type 2 Diabetes,Physical therapy
+134,Janet Bradley,47,Female,Arthritis,Medication
+108,Aaron Oneal,61,Female,Arthritis,Pain management
+152,Adam Terry,40,Female,Arthritis,Insulin therapy
+59,Craig Daniel,70,Female,Type 2 Diabetes,Insulin therapy
+160,John Oliver,82,Male,Hypertension,Medication
+49,Oscar Houston,70,Male,Arthritis,Pain management
+18,Jennifer Armstrong,55,Male,Type 2 Diabetes,Medication
+194,Mrs. Angela Bishop DVM,16,Female,Arthritis,Medication
+78,Shannon Liu,86,Male,Arthritis,Medication
+9,Amanda Reed,49,Female,Type 2 Diabetes,Insulin therapy
+23,Christopher Patterson,60,Female,Migraine,Physical therapy
+61,Connor Barry,14,Male,Type 2 Diabetes,Medication
+177,Phyllis Dennis,7,Female,Asthma,Lifestyle changes
+126,Michael Williams,79,Female,Asthma,Pain management
+129,William Thomas Jr.,27,Female,Migraine,Physical therapy
+92,Diane Barnes,71,Male,Type 2 Diabetes,Lifestyle changes
+48,Eric Oneill,2,Male,Migraine,Medication
+57,Nancy Allen,75,Male,Arthritis,Physical therapy
+98,Clayton Ross,48,Female,Migraine,Medication
+151,Anthony Ross,19,Female,Asthma,Physical therapy
+95,Randy Brown,35,Female,Type 2 Diabetes,Physical therapy
+167,Tracey Wagner,6,Male,Arthritis,Insulin therapy
+172,Robert Mahoney,4,Male,Migraine,Pain management
+36,Dorothy Hayes,90,Female,Asthma,Pain management
+193,Jody Lawrence,35,Male,Type 2 Diabetes,Lifestyle changes
+47,Connor Carson,30,Male,Migraine,Insulin therapy
+30,Denise Harris,55,Male,Arthritis,Lifestyle changes
+15,Allen Myers,72,Female,Arthritis,Medication
+104,Christine Harris,63,Female,Hypertension,Lifestyle changes
+55,Blake Knight,75,Male,Type 2 Diabetes,Pain management
+44,Sara Banks,12,Female,Type 2 Diabetes,Pain management
+54,Victor Carroll,62,Male,Hypertension,Pain management
+180,Mrs. Brittany Wheeler,85,Male,Migraine,Pain management
+65,Lawrence Howell,5,Female,Asthma,Physical therapy
+31,Stephen Watson,88,Male,Arthritis,Insulin therapy
+161,Melissa Gay,76,Male,Asthma,Insulin therapy
+19,Lauren Williams,69,Female,Type 2 Diabetes,Pain management
+8,Julie Lee,75,Female,Type 2 Diabetes,Medication
+136,David Jimenez,42,Male,Hypertension,Lifestyle changes
+107,Joanna Anderson,29,Male,Type 2 Diabetes,Lifestyle changes
+34,John Vargas,82,Male,Migraine,Insulin therapy
+43,Shelly Castillo,18,Female,Migraine,Insulin therapy
+119,Christine Martinez,4,Female,Asthma,Pain management
+114,Dawn Gonzales,79,Male,Asthma,Lifestyle changes
+106,Kimberly Cardenas,14,Female,Hypertension,Medication
+103,Stephen Anderson,81,Female,Arthritis,Physical therapy
+64,Sarah Murray,4,Female,Asthma,Lifestyle changes
+122,Ashley Flores,80,Female,Asthma,Medication
+94,Mark Eaton,59,Female,Type 2 Diabetes,Medication
+63,Nicole Hicks,42,Female,Asthma,Pain management
+123,Sarah Bell,83,Male,Asthma,Lifestyle changes
+196,Brandon Graham,52,Female,Asthma,Pain management
+51,Lacey Turner,90,Male,Type 2 Diabetes,Insulin therapy
+169,Donna Potter,11,Female,Hypertension,Pain management
+85,Cristian Woods,61,Female,Hypertension,Pain management
+83,Kathleen Miller,18,Female,Migraine,Insulin therapy
+26,Jacob Anderson,16,Male,Arthritis,Pain management
+153,Zachary Foster,66,Male,Hypertension,Insulin therapy
+20,Scott Jenkins,25,Female,Type 2 Diabetes,Insulin therapy
+109,Brian Thornton,67,Female,Hypertension,Physical therapy
+60,Pamela Baker,19,Female,Type 2 Diabetes,Lifestyle changes
+81,Allison Flores,90,Female,Asthma,Medication
+148,Willie Thomas,72,Female,Type 2 Diabetes,Medication
+14,Kristin Beck,30,Female,Migraine,Insulin therapy
+22,Keith Weaver,58,Male,Hypertension,Lifestyle changes
+157,Matthew Estrada,31,Male,Arthritis,Insulin therapy
+7,Melissa Sloan,60,Female,Migraine,Medication
+13,Tommy Zuniga,25,Female,Asthma,Pain management
+67,Jeffery Hensley,53,Male,Migraine,Pain management
+70,Dana Hanson,37,Female,Migraine,Insulin therapy
+191,Rose Harris,41,Female,Type 2 Diabetes,Insulin therapy
+5,Daniel Lopez,43,Male,Asthma,Medication
+111,Jesse Huff,65,Female,Arthritis,Insulin therapy
+163,Christina Henderson,27,Male,Arthritis,Pain management
+199,Julian Garrison,76,Female,Asthma,Medication
+159,Brendan Roberts,27,Female,Hypertension,Physical therapy
+183,Erica Higgins,42,Female,Arthritis,Pain management
+158,Alexandra Jenkins,42,Female,Hypertension,Pain management
+80,Jamie Sparks,86,Male,Migraine,Physical therapy
+24,Michelle Waller,31,Male,Type 2 Diabetes,Pain management
+115,Danielle Gomez,5,Male,Arthritis,Lifestyle changes
+192,Julie Schneider,64,Female,Migraine,Insulin therapy
+21,Melvin Cobb,22,Male,Asthma,Pain management
+90,Robert Schroeder,66,Female,Hypertension,Medication
+84,Joshua Sanchez,40,Female,Arthritis,Lifestyle changes
+56,John Gillespie,37,Male,Hypertension,Insulin therapy
+77,Steven Richards,74,Male,Type 2 Diabetes,Physical therapy
+87,Sandra Smith,50,Female,Hypertension,Medication
+91,Carol Roy,66,Female,Arthritis,Medication
+146,Allison Reed,77,Female,Migraine,Insulin therapy
+82,Sarah Robertson,19,Male,Hypertension,Insulin therapy
+150,Colton Kirk,80,Female,Type 2 Diabetes,Medication
+166,Sarah Myers,84,Male,Migraine,Pain management
+124,John Page,19,Male,Hypertension,Lifestyle changes
+42,Nicole Castillo,15,Female,Type 2 Diabetes,Physical therapy
+73,Amanda Williams,10,Female,Asthma,Insulin therapy
+112,Elizabeth Mitchell,48,Male,Asthma,Medication
+66,Tina Adams,12,Male,Asthma,Physical therapy
+10,Brian Carter,10,Male,Hypertension,Insulin therapy
+118,Christopher Ford,28,Male,Hypertension,Insulin therapy
+174,Taylor Nixon,43,Male,Arthritis,Insulin therapy
+156,Darius Hawkins,11,Male,Arthritis,Insulin therapy
+145,Lauren Carr,79,Female,Hypertension,Pain management
+102,Robert Ramirez,23,Female,Arthritis,Lifestyle changes
+88,Jason Thompson,44,Male,Arthritis,Physical therapy
+52,Vanessa Jones,10,Female,Type 2 Diabetes,Insulin therapy
+127,Erin Watson,25,Male,Asthma,Insulin therapy
+173,Billy Williams Jr.,40,Male,Hypertension,Physical therapy
+79,Dr. Beth Carter,1,Male,Arthritis,Pain management
+184,James Graham,35,Female,Asthma,Insulin therapy
+105,Shane Jones,22,Female,Type 2 Diabetes,Medication
+155,Stephanie Miranda,58,Male,Migraine,Physical therapy
+181,Johnny Allen,31,Female,Hypertension,Physical therapy
+38,Jacqueline Zimmerman,14,Female,Migraine,Pain management
+133,Ricky Henderson DDS,52,Female,Type 2 Diabetes,Medication
+1,Katherine Mayer,26,Female,Asthma,Physical therapy
+17,Martin Hanna,49,Male,Hypertension,Physical therapy
+197,John Williams,45,Male,Migraine,Lifestyle changes
+74,Nicole Gardner,72,Female,Asthma,Physical therapy
+101,Gabriel Jones,12,Male,Asthma,Physical therapy
+131,Nancy Mckenzie,9,Male,Type 2 Diabetes,Physical therapy
+3,Jennifer Brown,7,Male,Type 2 Diabetes,Physical therapy
+187,Alexander Cooper,31,Female,Asthma,Lifestyle changes
+39,James Cantrell,15,Male,Hypertension,Medication
+6,Scott Woods,89,Male,Arthritis,Insulin therapy
+182,Jennifer Sanchez,12,Male,Migraine,Medication
+16,Mrs. Katherine Ford MD,52,Male,Hypertension,Medication
+50,Jacqueline House,52,Male,Hypertension,Insulin therapy
+58,Jason Henderson,32,Male,Type 2 Diabetes,Medication
+72,Dr. Krystal Garcia MD,79,Female,Asthma,Medication
+139,Katelyn Reese,2,Female,Asthma,Insulin therapy
+132,Raymond Alexander,52,Female,Asthma,Physical therapy
+116,Tony Thomas,69,Female,Migraine,Insulin therapy
+45,Suzanne Hart,47,Female,Arthritis,Physical therapy
+190,Benjamin Tran,41,Female,Type 2 Diabetes,Lifestyle changes
+168,William Wilkins,8,Male,Type 2 Diabetes,Medication
+147,Amy Smith,78,Female,Migraine,Lifestyle changes
+175,Kiara Smith,39,Male,Hypertension,Medication
+137,Matthew Carroll,79,Male,Arthritis,Lifestyle changes
+120,Helen Martin,33,Male,Migraine,Insulin therapy
+189,Krista Terry,46,Female,Arthritis,Medication
+188,Kelly Miller,33,Female,Migraine,Insulin therapy
+186,Desiree Simmons,49,Male,Migraine,Medication
+176,Kayla Butler,79,Female,Asthma,Physical therapy
+2,Misty Hall,54,Female,Arthritis,Physical therapy
+62,Pamela Mcintosh,30,Female,Type 2 Diabetes,Pain management
+110,Michelle Day,5,Female,Asthma,Medication
+89,Heather Ortiz,81,Male,Asthma,Medication
+12,Kevin Allen,10,Female,Asthma,Physical therapy
+33,Austin Cooper,73,Female,Arthritis,Pain management
+130,Laura Frank,36,Male,Hypertension,Physical therapy
+178,Felicia Lawrence,20,Male,Type 2 Diabetes,Medication
+162,Sandra Bond,71,Male,Hypertension,Pain management
+41,Laura Young,26,Male,Asthma,Medication
+35,Paul Morales,19,Female,Arthritis,Physical therapy
+185,Nicholas Olson,53,Male,Arthritis,Medication
+27,Eric Turner,3,Male,Type 2 Diabetes,Insulin therapy
+144,Michelle Booker,43,Male,Arthritis,Lifestyle changes
+100,Joseph Riley,3,Male,Hypertension,Medication
+25,Mrs. Ashley Randall,6,Female,Migraine,Insulin therapy
+164,Kelsey Richmond,55,Female,Arthritis,Lifestyle changes
+37,Stacey Martin,80,Female,Asthma,Physical therapy
+75,Rhonda Brewer,30,Female,Hypertension,Insulin therapy
+140,Brandon Long,60,Female,Asthma,Physical therapy
+142,Christopher Jenkins,23,Female,Hypertension,Insulin therapy
+40,Michael Hill,43,Female,Asthma,Insulin therapy
+138,Brittany Stephens,59,Male,Hypertension,Lifestyle changes
+154,Nicholas Oliver,31,Male,Type 2 Diabetes,Insulin therapy
+143,Tamara Baker,60,Male,Asthma,Physical therapy
+200,Richard Dennis,63,Male,Type 2 Diabetes,Pain management
+135,Mackenzie Morgan,61,Female,Hypertension,Physical therapy
+128,James Mason,18,Female,Type 2 Diabetes,Lifestyle changes
+71,Kelsey Lopez,53,Male,Asthma,Lifestyle changes
+29,Jasmine Mathis,7,Male,Hypertension,Physical therapy
+149,Jerry Williams,27,Male,Migraine,Lifestyle changes
+141,Deborah Ruiz,74,Male,Asthma,Physical therapy
+117,Richard Robinson,33,Male,Type 2 Diabetes,Pain management
+11,Eric Morton,12,Female,Asthma,Lifestyle changes
+53,Richard Carpenter,25,Female,Hypertension,Medication
+165,Timothy Green,86,Female,Migraine,Insulin therapy
+121,Matthew Thomas,15,Female,Hypertension,Medication
+76,Daniel Woods,31,Female,Migraine,Lifestyle changes
+195,Jennifer Jones,59,Male,Arthritis,Lifestyle changes
+96,Russell Brown,58,Female,Hypertension,Lifestyle changes
+28,Ethan Jimenez,82,Female,Asthma,Physical therapy
+4,Benjamin Schmidt,63,Male,Arthritis,Lifestyle changes
+113,Daniel Gardner,14,Male,Type 2 Diabetes,Medication
+32,Robert Jones,20,Male,Asthma,Lifestyle changes
+179,Tony Malone,43,Male,Hypertension,Medication
+69,Brenda Harrison,19,Male,Hypertension,Pain management
+170,Timothy Gibson,68,Female,Asthma,Lifestyle changes
+86,Lynn Mcmillan,68,Male,Arthritis,Medication
+171,Ryan Roberson,13,Male,Type 2 Diabetes,Medication
+198,Miranda Miller,44,Male,Type 2 Diabetes,Lifestyle changes
+125,Tanya Cannon,42,Male,Arthritis,Physical therapy
+99,Ryan Jensen,73,Male,Hypertension,Medication
+46,Kevin Tyler,8,Female,Asthma,Physical therapy
